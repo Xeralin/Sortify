@@ -2,7 +2,7 @@
   {
     "name": "Sortify",
     "description": "Sort by artist, but correctly.",
-    "preview": "Artist.png",
+    "preview": "Preview.png",
     "main": "Sortify.js",
     "readme": "README.md",
     "tags": ["sort"]
