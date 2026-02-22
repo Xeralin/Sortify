@@ -1,7 +1,7 @@
 [
   {
     "name": "Sortify",
-    "description": "Sort by artist, but correctly.",
+    "description": "Sort a playlist by artist, but correctly.",
     "preview": "Preview.png",
     "main": "Sortify.js",
     "readme": "README.md",
