@@ -12,7 +12,7 @@ First, open the Spicetify folder:
 ```sh
 spicetify config-dir
 ```
-Then place the Sortify.js file in the **Extension** folder.
+Then place the Sortify.js file in the `Extension` folder.
 Finally, you need to adjust the configuration:
 ```sh
 spicetify config extensions Sortify.js
